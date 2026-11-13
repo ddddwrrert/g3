@@ -1,0 +1,7 @@
+G3 is a control loop around Harness².
+
+third_party/harness2 is an unmodified checkout of
+https://github.com/google-research/harness2 at commit
+6868817518876de8fd170c6a8354daca273b6191
+and remains under the Apache License 2.0. Its license is in
+third_party/harness2/LICENSE.
